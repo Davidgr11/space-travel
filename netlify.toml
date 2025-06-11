@@ -9,13 +9,68 @@
   status = 200
 
 [[redirects]]
+  from = "/destination-moon"
+  to = "/destination-moon.html"
+  status = 200
+
+[[redirects]]
+  from = "/destination-mars"
+  to = "/destination-mars.html"
+  status = 200
+
+[[redirects]]
+  from = "/destination-europa"
+  to = "/destination-europa.html"
+  status = 200
+
+[[redirects]]
+  from = "/destination-titan"
+  to = "/destination-titan.html"
+  status = 200
+
+[[redirects]]
   from = "/crew"
   to = "/crew.html"
   status = 200
 
 [[redirects]]
+  from = "/crew-commander"
+  to = "/crew-commander.html"
+  status = 200
+
+[[redirects]]
+  from = "/crew-specialist"
+  to = "/crew-specialist.html"
+  status = 200
+
+[[redirects]]
+  from = "/crew-pilot"
+  to = "/crew-pilot.html"
+  status = 200
+
+[[redirects]]
+  from = "/crew-engineer"
+  to = "/crew-engineer.html"
+  status = 200
+
+[[redirects]]
   from = "/technology"
   to = "/technology.html"
+  status = 200
+
+[[redirects]]
+  from = "/technology-vehicle"
+  to = "/technology-vehicle.html"
+  status = 200
+
+[[redirects]]
+  from = "/technology-spaceport"
+  to = "/technology-spaceport.html"
+  status = 200
+
+[[redirects]]
+  from = "/technology-capsule"
+  to = "/technology-capsule.html"
   status = 200
 
 [[redirects]]
