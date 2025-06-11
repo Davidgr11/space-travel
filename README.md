@@ -2,7 +2,7 @@
 
 A modern, responsive space tourism website that showcases destinations, crew members, and space technology. This project was built as part of the Scrimba Frontend Developer Career Path.
 
-PREVIEW: [HERE](https://davidgr11.github.io/space-travel/)
+PREVIEW: [HERE](https://space-travel-go.netlify.app/)
 
 ## 🚀 Features
 
