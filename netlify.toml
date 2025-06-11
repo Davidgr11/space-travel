@@ -1,0 +1,24 @@
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/destination"
+  to = "/destination.html"
+  status = 200
+
+[[redirects]]
+  from = "/crew"
+  to = "/crew.html"
+  status = 200
+
+[[redirects]]
+  from = "/technology"
+  to = "/technology.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 404 
